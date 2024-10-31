@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.tarjeta{
+
+    width: 350px;
+    margin: 70px auto;
+    box-shadow: 0 0 4px;
+    border-radius: 1em;
+}
+
+.tarjeta-img{
+
+    width: 100%;
+    display: block;
+    border-radius: 1em 1em 0 0;
+}
+
+.tarjeta-contenedor{
+
+    border-radius: 0 0 1em 1em;
+    padding: 20px 10px;
+    text-align: center;
+    
+}
+
+.tarjeta-titulo{
+
+    margin-top: 5px;
+}
+
+.tarjeta-parrafo{
+
+    margin-top: 10px;
+    line-height: 1.5;
+    text-align: start;
+}
+
+.tarjeta-boton{
+
+    margin-top: 10px;
+    background-color: red;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 20px;
+    display: inline-block;
+    text-decoration: none;
+
+}
+
